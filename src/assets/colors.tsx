@@ -1,0 +1,16 @@
+export default {
+  backgroundColor: '#010319',
+  backgroundColorBlue: '#125BD0',
+  grey: '#7E7BAA',
+  whiteGrey: '#6A6A6A',
+  btnBin: '#5A5786',
+  btnBlue: '#0063FF',
+  darkGrey: '#999999',
+  white: '#FFFFFF',
+  red: '#D11A1A',
+  lightRed: '#CF2727',
+  orange: '#E57B17',
+  lightOrange: '#EE913A',
+  green: '#79C80A',
+  lightGreen: '#99E42E',
+};
