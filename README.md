@@ -1,7 +1,7 @@
 # ToDoApp
 To Do App using React Native
 
-`git clone https://github.com/KhangNg92/pokedex.git`
+`git clone https://github.com/helloo0-0oword/ToDoApp.git`
 
 `yarn`
 
