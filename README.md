@@ -1,4 +1,4 @@
-# ToDoApp
+# To Do App
 To Do App using React Native
 
 `git clone https://github.com/helloo0-0oword/ToDoApp.git`
@@ -16,3 +16,6 @@ Run
 Just run
 
 `npx react-native run-android`
+
+*Note: If you want to edit, just press and hold.
+
